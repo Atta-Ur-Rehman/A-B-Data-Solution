@@ -1,0 +1,153 @@
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\abdatasolution.dll.config
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\abdatasolution.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\abdatasolution.pdb
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Antlr3.Runtime.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\EntityFramework.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\EntityFramework.SqlServer.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Newtonsoft.Json.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Owin.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\System.Web.Optimization.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\System.Web.Providers.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\WebGrease.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\System.Web.Optimization.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Antlr3.Runtime.pdb
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Newtonsoft.Json.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\EntityFramework.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\EntityFramework.SqlServer.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\obj\Debug\abdatasolution.csprojResolveAssemblyReference.cache
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\obj\Debug\abdatasolution.dll
+C:\Users\ATTA-UR-\Desktop\abdatasolution\abdatasolution\obj\Debug\abdatasolution.pdb
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\abdatasolution.dll.config
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\abdatasolution.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\abdatasolution.pdb
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Antlr3.Runtime.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\AspNet.ScriptManager.jQuery.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\EntityFramework.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\EntityFramework.SqlServer.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Google.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Web.Infrastructure.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Newtonsoft.Json.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Owin.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\System.Web.Optimization.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\System.Web.Providers.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\WebGrease.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\System.Web.Optimization.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Antlr3.Runtime.pdb
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Newtonsoft.Json.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\EntityFramework.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\EntityFramework.SqlServer.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Google.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\obj\Debug\abdatasolution.csprojResolveAssemblyReference.cache
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\obj\Debug\abdatasolution.dll
+E:\Personal Documents\AB Data solution\abdatasolution\abdatasolution\obj\Debug\abdatasolution.pdb
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\abdatasolution.dll.config
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\abdatasolution.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\abdatasolution.pdb
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Antlr3.Runtime.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\AspNet.ScriptManager.bootstrap.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\AspNet.ScriptManager.jQuery.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\EntityFramework.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\EntityFramework.SqlServer.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Core.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Cookies.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Facebook.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Google.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.OAuth.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Twitter.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.ScriptManager.WebForms.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Web.Infrastructure.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Newtonsoft.Json.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Owin.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\System.Web.Optimization.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\System.Web.Providers.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\WebGrease.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\System.Web.Optimization.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Antlr3.Runtime.pdb
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Newtonsoft.Json.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\EntityFramework.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\EntityFramework.SqlServer.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Core.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Facebook.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Cookies.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Google.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.Twitter.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\bin\Microsoft.Owin.Security.OAuth.xml
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\obj\Debug\abdatasolution.csprojResolveAssemblyReference.cache
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\obj\Debug\abdatasolution.dll
+E:\A&B Projects\abdatasolution\abdatasolution\abdatasolution\obj\Debug\abdatasolution.pdb

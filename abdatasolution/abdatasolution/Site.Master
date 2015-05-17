@@ -1,0 +1,499 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Full Slider - Start Bootstrap Template</title>
+
+    <!-- Bootstrap Core CSS -->
+     <link rel="stylesheet" href="assets/css/animate.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/creative.css" type="text/css">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="assets/css/full-slider.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+ <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<style type="text/css">
+    .bs-example{
+    	margin: 20px;
+    }
+</style>
+     <style>
+       #circle {
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    }
+       #circle1 {
+	width: 100px;
+	height: 100px;
+	background: rgb(115, 160, 50);
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    }
+       #circle2 {
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    }
+          #circle2 {
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    }
+          .mobile{
+               -webkit-transition: -webkit-transform .8s ease-in-out;
+    -ms-transition: -ms-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;  
+          }
+    .mobile:hover{
+        transform: rotatey(180deg);
+    }
+    .mobile1{
+               -webkit-transition: -webkit-transform .8s ease-in-out;
+    -ms-transition: -ms-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;  
+          }
+    .mobile1:hover{
+        transform: rotatey(180deg);
+    }
+    .mobile2{
+               -webkit-transition: -webkit-transform .8s ease-in-out;
+    -ms-transition: -ms-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;  
+          }
+    .mobile2:hover{
+        transform: rotatey(180deg);
+    }
+    .mobile3{
+               -webkit-transition: -webkit-transform .8s ease-in-out;
+    -ms-transition: -ms-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;  
+          }
+    .mobile3:hover{
+        transform: rotatey(180deg);
+    }
+    .form-control{
+        width:55%;
+    }.bt-login,.bt-login:hover, .bt-login:active, .bt-login:focus {
+    background-color: #ff8627;
+    color: #ffffff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    transition: background-color 300ms linear 0s;
+}
+
+
+.login-tab {
+	margin: 0 auto;
+	max-width: 380px;
+}
+
+.login-modal-header {
+	background: #27ae60;
+	color: #fff;
+}
+
+.login-modal-header .modal-title {
+	color: #fff;
+}
+
+.login-modal-header .close {
+	color: #fff;
+}
+
+.login-modal i {
+	color: #000;
+}
+
+.login-modal form {
+	max-width: 340px;
+}
+
+.tab-pane form {
+	margin: 0 auto;
+}
+.login-modal-footer{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+         .img {
+         
+    background-image: url('assets/img/contact_bg.png');
+    background-size: 100% 100%;
+         }   
+    </style>
+    <script>
+        $(document).ready(function () {
+            $(document).on('click', '.signup-tab', function (e) {
+                e.preventDefault();
+                $('#signup-taba').tab('show');
+            });
+
+            $(document).on('click', '.signin-tab', function (e) {
+                e.preventDefault();
+                $('#signin-taba').tab('show');
+            });
+
+            $(document).on('click', '.forgetpass-tab', function (e) {
+                e.preventDefault();
+                $('#forgetpass-taba').tab('show');
+            });
+
+                    });
+
+        
+</script>
+</head>
+
+<body>
+   
+    <!-- Navigation -->
+      <!-- Navigation -->
+     <nav id="mainNav" class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">A&B Data Solution</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right" id="topNav">
+                    <li class="topNavBtn">
+                        <a class="page-scroll" href="#home">HOME</a>
+                    </li>
+                    <li class="topNavBtn">
+                        <a  class="page-scroll" href="#services">OUR SERVICES</a>
+                    </li>
+                    <li class="topNavBtn">
+                        <a class="page-scroll" href="#we">What We Do</a>
+                    </li>
+                    <li class="topNavBtn">
+                        <a class="page-scroll" href="#about">ABOUT</a>
+                    </li>
+                    <li class="topNavBtn">
+                        <a class="page-scroll" href="#contact">Contact Us</a>
+                    </li>
+                    <li class="topNavBtn">
+                       <a href="#">Login</a>
+                        <!--popup-->
+
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Full Page Image Background Carousel Header -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for Slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!-- Set the first background image using inline CSS below. -->
+               <div class="fill" style="background-image: url('assets/img/bg1.jpg');"></div>
+                <div class="header-content-inner">
+                    <div class="carousel-caption" style="top: 150px;">
+                        <h1 style="font-size: 80px; font-family: 'GLYPHICONS Halflings'; color: #99f293;">A&B Data Solution</h1>
+                        <h3 style="font-size: 36px; color: #ffffff;">A&B Data Solution is the best place for solution</h3>
+                        <hr>
+                        <p style="font-size: 24px; color: #ffffff;">A&B Data Solution provides people ,products, and services in the global marketplace with a focus on state-of-the-art technologies.</p>
+                        <a href="#services" class="btn btn-primary btn-xl page-scroll">find out more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <!-- Set the second background image using inline CSS below. -->
+                   <div class="fill" style="background-image: url('assets/img/bg2.jpg');"></div>
+                    <div class="carousel-caption" style="top: 150px;">
+                        <h1 style="font-size: 80px; font-family: 'GLYPHICONS Halflings'; color: #99f293;">What We Do</h1>
+                        <h3 style="font-size: 36px; color: #ffffff;">We do technology services, for it is what we love doing.</h3>
+                        <hr>
+                    </div>
+                </div>
+            <div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <div class="fill" style="background-image: url('assets/img/bg3.jpg');"></div>
+                    <div class="carousel-caption" style="top: 150px;">
+                        <h1 style="font-size: 80px; font-family: 'GLYPHICONS Halflings'; color: #99f293;">A&B Data Solution</h1>
+                        <h3 style="font-size: 36px; color: #ffffff;">We provide best quality services</h3>
+                        <hr>
+                </div>
+            </div>
+             <div class="item">
+                <!-- Set the fourth background image using inline CSS below. -->
+                <div class="fill" style="background-image: url('assets/img/bg2.jpg');"></div>
+                <div class="carousel-caption" style="top: 150px;">
+                    <h1 style="font-size: 80px; font-family: 'GLYPHICONS Halflings'; color: #99f293;">What We Do</h1>
+                    <h3 style="font-size: 36px; color: #ffffff;">We do technology services, for it is what we love doing.</h3>
+                    <hr>
+                </div>
+            </div>
+
+        <!-- Controls -->
+       
+    </header>
+    <!-- Page Content -->
+  
+    <section class="bg-primary" id="home">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12  text-center">
+                    <h2 class="section-heading" style="font-size: 50px; font-family: 'GLYPHICONS Halflings'; color: #99f293;">Our Vision & Mission</h2>
+                    <hr class="light">
+                    <p class="text-faded" style="font-size: 20px; color: #101010;">We are a Group, and we are individuals. We each have our own temperaments, creative thoughts and styles of work. And yet we merge really, really well as a cohesive whole. We look to foster talent and complement each other, professionally and personally, to grow together both as a group and as individuals. Trust is one of the cornerstones in our enterprise, which keeps us motivated to challenge ourselves to reach farther and achieve further than our set goals. </p>
+                    <!-- <a href="#" class="btn btn-default btn-xl">Get Started!</a> -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services" >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h1 class="section-heading" style=" font-family: 'GLYPHICONS Halflings'; color: #808080;">Our Services</h1>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 text-center">
+                    <div class="service-box">
+                        <img src="assets/img/accounts.jpg" style="width: 300px; height: 300px; border-radius: 20%;" />
+                        <h2><b>ALS</b></h2>
+                        <br />
+                        <p class="text-muted" style="font-size: 34px; font-family: 'Urdu Typesetting'; color: #101010;">پاکستان کا پہلا اردو اکاؤنٹنگ سوفٹوئرجو پاکستان کا مختلف شہروں (کراچی،کوئٹہ،حیدراباد،نواب شاہ)میں تقریبَ  155  کمپنیایوں میں کامیابی کے ساتھ زیرِی استعمال ہے۔ <span style="color: red;"></span></p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 text-center">
+                    <div class="service-box">
+                        <a data-toggle="modal" data-target="#largeModal"><img src="assets/img/SIMS.png" style="width: 300px; height: 300px;" /></a>
+                        <h2><b>Students Information & Management System</b></h2>
+                        <br />                        
+                        <p class="text-muted" style="font-size: 18px; color: #101010;">SIMS is a complete software package for modern School to help manage and organized complete job related this field. It is a modern step towards school management. It is easy to use and even a single person will complete use this software. <span style="color: red;"><a data-toggle="modal" data-target="#largeModal">Read More...</a></span></p>
+                        <div id="largeModal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog">
+                            <div class="modal-dialog modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <img src="assets/img/pop.png" />
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 text-center">
+                    <div class="service-box">
+                        <img src="assets/img/Untitled-2.png" style="width: 300px; height: 300px;" />
+                        <h2><b>In process</b></h2>
+                        <br />
+                        <br />
+                        <p class="text-muted" style="font-size: 18px; color: #101010;">Working on project , upload detail as soon as possible</p>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <section style="background-color: #101010;" id="we">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12  text-center">
+                    <h1 class="section-heading" style="font-size: 50px; font-family: 'GLYPHICONS Halflings'; color: #99f293;">What We Do</h1>
+                    <h3 style="color: white;">We do technology services, for it is what we love doing.</h3>
+                    <hr class="light" style="border-color: #F05F40;">
+                </div>
+            </div>
+            <div class="row">
+                <div class="container-fluid">
+                    <div class="container">
+                        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" style="margin-left: 30px;">
+                            <img src="assets/img/mobile.png" class="mobile" style="margin-left: 114px;" />
+                            <h2 style="color: white; fon"><b>SOLUTION DEVELOPMENT</b></h2>
+                            <p style="color: white;font-size:18px;" >Open Source? Dot Net? Smart Devices? … That is the thing, we do all of these. We do not look to limit ourselves to a single platform, or a single technology. Everyone has their preference for a base-technology, and thus we look to develop effective and productive solutions as per our client preferences.</p>
+                        </div>
+                        <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 " style="margin-left: 130px;">
+                            <img src="assets/img/mobile1.png" class="mobile1" style="margin-left: 87px;" />
+                            <h2 style="color: white;"><b>ENTERPRISE PORTAL</b></h2>
+                            <p style="color: white;font-size:18px;">One-Window-Operation. That is the key word which organizations are running with, and the growing trend for a more productive and optimized work environment. Embracing the concept, what we pitch is a One-Stop-Shop; an organizational-portal that cohesively integrates the work-force with their need on information. </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="container">
+                    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" style="margin-left: 30px;">
+                        <img src="assets/img/mobile2.png" class="mobile2" style="margin-left: 114px;" />
+                        <h2 style="color: white;" class="text-center"><b>MANAGED SERVICES</b></h2>
+                        <p style="color: white;font-size:18px;">Why get into the hassle of mundane everyday operations, when you can have us do it for you. We help our clients to keep their focus on innovation and growth for their businesses, by taking care of their day-to-day operational needs. We offer 24x7 remote and onsite support for optimum IT infrastructure management, with our services including System Administration, Break-Fix Management, Disaster Recovery Implementation and Scheduled Health Checks. </p>
+                    </div>
+                    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 " style="margin-left: 130px;">
+                        <img src="assets/img/mobile3.png" class="mobile3" style="margin-left: 87px;" />
+                        <h2 style="color: white;" class="text-center"><b>MANAGED SERVICES</b></h2>
+                        <p style="color: white;font-size:18px;">Why get into the hassle of mundane everyday operations, when you can have us do it for you. We help our clients to keep their focus on innovation and growth for their businesses, by taking care of their day-to-day operational needs. We offer 24x7 remote and onsite support for optimum IT infrastructure management, with our services including System Administration, Break-Fix Management, Disaster Recovery Implementation and Scheduled Health Checks. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="background-color: rgb(255, 249, 249);" id="about">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12  text-center">
+                    <h2 class="section-heading" style="font-size: 50px; font-family: 'GLYPHICONS Halflings'; color: #808080;">About Us</h2>
+                    <hr class="light">
+                    <p class="text-faded" style="font-size: 20px; color: #101010;">We are a Group, and we are individuals. We each have our own temperaments, creative thoughts and styles of work. And yet we merge really, really well as a cohesive whole. We look to foster talent and complement each other, professionally and personally, to grow together both as a group and as individuals. Trust is one of the cornerstones in our enterprise, which keeps us motivated to challenge ourselves to reach farther and achieve further than our set goals. </p>
+                    <!-- <a href="#" class="btn btn-default btn-xl">Get Started!</a> -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <br />
+    <br />
+
+   <section id="contact" class="contact_bgimg img" >
+        <div class="container" >
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading" style="font-size: 50px; font-family: 'GLYPHICONS Halflings'; color: #99f293;">Get In Touch!</h2>
+                    <hr class="primary">
+                    <p style="font-size: 30px; color: #ffffff;">Want to meet with us.? Please contact the following Numbers or Emails.</p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+
+                    <p style="font-size: 20px; color: #ffffff;">+92-307-2002763</p>
+                    <p style="font-size: 20px; color: #ffffff;">+92-345-6425141</p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+
+                    <p><a href="mailto:your-email@your-domain.com"><b>asifu78@gmail.com</b></a></p>
+                    <p><a href="mailto:your-email@your-domain.com"><b>bilal_ahmed@live.com</b></a></p>
+
+                </div>
+            </div>
+            <div class="row">
+                    <div class="container ">
+                            <br />
+                            <br />
+
+                              <form class="form-horizontal" style="margin-left:213px;">
+        <div class="form-group">
+            <label for="inputEmail" class="control-label col-xs-2"><span style="color:white; font-size:18px;"><b>Email</b></span></label>
+            <div class="col-xs-10">
+                <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputPassword" class="control-label col-xs-2"><span style="color:white; font-size:18px;"><b>Password</b></span></label>
+            <div class="col-xs-10">
+                <input type="password" class="form-control" id="inputPassword" placeholder="Comment" style="padding-bottom:85px;">
+            </div>
+        </div>
+        <div class="form-group">
+            
+        </div>
+        <div class="form-group">
+            <div class="col-xs-offset-2 col-xs-10">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </form>
+                            </div>
+                        
+                     </div>
+                </div>
+            
+    </section>
+
+     <!-- jQuery -->
+    <script src="assets/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+
+    <!-- Plugin JavaScript -->
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/jquery.fittext.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/creative.js"></script>
+
+
+    <!-- Page Content -->
+   
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="assets/js/jquery.fittext.js"></script>
+        <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/creative.js"></script>
+    <script src="assets/js/jquery.js"></script>
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+
+    <!-- Script to Activate the Carousel -->
+   <script>
+       $('.carousel').carousel({
+           interval: 5000 //changes the speed
+      })
+
+       var list = document.getElementsByClassName("topNavBtn");
+       for(var i=0;i<list.length;i++){
+           list[i].addEventListener('click', function (e) {
+               for (var i = 0; i < list.length; i++) {
+                   list[i].style.backgroundColor = "transparent"
+               }
+               e.currentTarget.style.backgroundColor = "#eb3812"
+
+           })
+       }
+       
+    </script>
+
+</body>
+
+</html>
